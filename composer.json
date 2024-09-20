@@ -1,0 +1,19 @@
+{
+    "name": "prashantshukla/laravel-migration-generator",
+    "description": "A package to generate migrations automatically for Laravel projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prashantshukla\\LaravelMigrationGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prashant Shukla"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    }
+}
